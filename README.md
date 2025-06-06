@@ -11,4 +11,4 @@
 
 ```
 
-A collection of items for all thing Microsoft Sentinel.
+**A collection of items for all things Microsoft Sentinel.**
